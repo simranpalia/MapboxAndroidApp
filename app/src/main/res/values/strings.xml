@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestMapBoxApp</string>
+    <string name="MapBoxKey">pk.eyJ1IjoiYm9yZGVycGFzcyIsImEiOiJjanA3d2Z4amwwaHRzM3FvMHNlcXRoN2hjIn0.0cNPmE41RfC9PLfUzy0New</string>
+</resources>
